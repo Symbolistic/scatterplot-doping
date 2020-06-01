@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scatterplot-doping/static/css/main.5080e53e.chunk.css",
+    "main.js": "/scatterplot-doping/static/js/main.7617d34a.chunk.js",
+    "main.js.map": "/scatterplot-doping/static/js/main.7617d34a.chunk.js.map",
+    "runtime-main.js": "/scatterplot-doping/static/js/runtime-main.bc1ee622.js",
+    "runtime-main.js.map": "/scatterplot-doping/static/js/runtime-main.bc1ee622.js.map",
+    "static/js/2.593ffaec.chunk.js": "/scatterplot-doping/static/js/2.593ffaec.chunk.js",
+    "static/js/2.593ffaec.chunk.js.map": "/scatterplot-doping/static/js/2.593ffaec.chunk.js.map",
+    "index.html": "/scatterplot-doping/index.html",
+    "precache-manifest.a2082d9ea0fc5cb3d017475511ea8194.js": "/scatterplot-doping/precache-manifest.a2082d9ea0fc5cb3d017475511ea8194.js",
+    "service-worker.js": "/scatterplot-doping/service-worker.js",
+    "static/css/main.5080e53e.chunk.css.map": "/scatterplot-doping/static/css/main.5080e53e.chunk.css.map",
+    "static/js/2.593ffaec.chunk.js.LICENSE.txt": "/scatterplot-doping/static/js/2.593ffaec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc1ee622.js",
+    "static/js/2.593ffaec.chunk.js",
+    "static/css/main.5080e53e.chunk.css",
+    "static/js/main.7617d34a.chunk.js"
+  ]
+}
